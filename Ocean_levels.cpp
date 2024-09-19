@@ -12,5 +12,5 @@ int main()
  cout << "Year " << i << " : " << number_of_millimeters_each_year << endl;}
 return 0;}
 //What I found most challenging was the for loop.
-//The problem I encoutered was that I forgot to add the semicolon after the for loop.
+//The problem I encoutered was that I forgot to add the semicolon after the for loop. To fix it I added the semicolon.
 //What I learned was how to use i++ to add 1 to i.
