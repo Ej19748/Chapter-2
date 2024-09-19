@@ -13,5 +13,5 @@ int main()
    return 0;
 }
 //What I found most challenging was putting it all together with cout.
-//The problem I encountered was that I forgot to add float when multiplying.
+//The problem I encountered was that I forgot to add float when multiplying. To fix it I referred back to the notes.
 //What I learned was that I need to remember to use cout and float.
