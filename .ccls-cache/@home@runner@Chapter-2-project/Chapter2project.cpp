@@ -1,3 +1,6 @@
+// Calculate ocean's level in 5, 7, and 10 years starting from 1.5 millimeters
+// Remember to use float for decimals
+// 
 #include <iostream>
 using namespace std;
 int main() 
