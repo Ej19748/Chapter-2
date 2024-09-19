@@ -16,5 +16,5 @@ int main()
    return 0;
 }
 // What I found most challenging was figuring out what to multiply
-//The problem I encountered was forgetting to use const 
+//The problem I encountered was forgetting to use const. To fix it I just added const to the beginning of the line.
 //What I learned is that you need to use const for numbers that will not change.
